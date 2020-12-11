@@ -1,4 +1,3 @@
-/*
 package com.example.security;
 
 import de.codecentric.boot.admin.server.config.AdminServerProperties;
@@ -56,4 +55,3 @@ public class WebSecurityConfig extends WebSecurityConfigurerAdapter {
         .tokenValiditySeconds(1209600);
   }
 }
-*/
